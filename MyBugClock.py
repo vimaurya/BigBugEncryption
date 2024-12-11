@@ -1,5 +1,5 @@
 """
-My very own cipher that I developed for the sole purpose of having fun, not too make it too complicated and not to make it too easy.
+My very own cipher that I developed for the sole purpose of having fun, not to make it too complicated and not to make it too easy.
 It has 144 possibilities of keys.
 """
 
