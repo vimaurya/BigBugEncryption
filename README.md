@@ -1,4 +1,4 @@
-# Time-Based Substitution Cipher
+# Modular arithmetic based encryption
 
 A custom cryptographic algorithm designed for fun and educational purposes, using time-inspired keys and stateful substitution.
 
